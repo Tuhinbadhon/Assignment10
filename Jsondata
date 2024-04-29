@@ -1,0 +1,132 @@
+[
+  {
+    "image": "https://example.com/mountain_view_canvas.jpg",
+    "item_name": "Mountain View Canvas",
+    "subcategory": "Landscape Painting",
+    "description": "A breathtaking landscape painting depicting a serene mountain view.",
+    "price": 150.99,
+    "rating": 4.8,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/forest_based_landscape.jpg",
+    "item_name": "Forest Based Landscape Painting",
+    "subcategory": "Landscape Painting",
+    "description": "A beautiful landscape painting capturing the essence of a forest.",
+    "price": 180.50,
+    "rating": 4.7,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/pencil_sketch_portrait.jpg",
+    "item_name": "Pencil Sketch Portrait",
+    "subcategory": "Portrait Drawing",
+    "description": "A detailed pencil sketch portrait capturing the likeness of the subject.",
+    "price": 75.99,
+    "rating": 4.5,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/ink_outline_portrait.jpg",
+    "item_name": "Ink Outline Portrait",
+    "subcategory": "Portrait Drawing",
+    "description": "An elegant ink outline portrait with intricate details.",
+    "price": 90.00,
+    "rating": 4.6,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/acrylic_portrait_canvas.jpg",
+    "item_name": "Acrylic Portrait Canvas",
+    "subcategory": "Portrait Drawing",
+    "description": "A vibrant acrylic portrait on canvas capturing the essence of the subject.",
+    "price": 120.75,
+    "rating": 4.9,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/floral_watercolor_art.jpg",
+    "item_name": "Floral Watercolor Art",
+    "subcategory": "Watercolour Painting",
+    "description": "A delicate watercolor painting featuring vibrant floral motifs.",
+    "price": 65.50,
+    "rating": 4.4,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/animal_watercolor_portrait.jpg",
+    "item_name": "Animal Watercolor Portrait",
+    "subcategory": "Watercolour Painting",
+    "description": "A charming watercolor portrait capturing the essence of animals.",
+    "price": 85.99,
+    "rating": 4.7,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/realistic_oil_portrait.jpg",
+    "item_name": "Realistic Oil Portrait",
+    "subcategory": "Oil Painting",
+    "description": "A lifelike oil portrait capturing intricate details of the subject.",
+    "price": 200.00,
+    "rating": 4.8,
+    "customization": "Yes",
+    "stockstatus": "Made to Order"
+  },
+  {
+    "image": "https://example.com/abstract_oil_painting.jpg",
+    "item_name": "Abstract Oil Painting",
+    "subcategory": "Oil Painting",
+    "description": "An abstract oil painting that evokes emotions and imagination.",
+    "price": 180.00,
+    "rating": 4.6,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/figure_charcoal_sketch.jpg",
+    "item_name": "Figure Charcoal Sketch",
+    "subcategory": "Charcoal Sketching",
+    "description": "A dynamic charcoal sketch capturing the essence of human figures.",
+    "price": 55.99,
+    "rating": 4.3,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/architectural_charcoal_drawing.jpg",
+    "item_name": "Architectural Charcoal Drawing",
+    "subcategory": "Charcoal Sketching",
+    "description": "An architectural charcoal drawing showcasing intricate details of buildings.",
+    "price": 70.50,
+    "rating": 4.5,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/comic_strip_drawing.jpg",
+    "item_name": "Comic Strip Drawing",
+    "subcategory": "Cartoon Drawing",
+    "description": "A fun and vibrant comic strip drawing with engaging characters and storylines.",
+    "price": 45.99,
+    "rating": 4.2,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  },
+  {
+    "image": "https://example.com/superhero_cartoon_design.jpg",
+    "item_name": "Superhero Cartoon Design",
+    "subcategory": "Cartoon Drawing",
+    "description": "A cool and dynamic superhero cartoon design featuring iconic characters.",
+    "price": 60.00,
+    "rating": 4.4,
+    "customization": "Yes",
+    "stockstatus": "In Stock"
+  }
+]
