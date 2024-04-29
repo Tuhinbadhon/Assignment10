@@ -1,132 +1,106 @@
 [
   {
-    "image": "https://example.com/mountain_view_canvas.jpg",
+    "image": "https://i.ibb.co/d48JFGk/image01.jpg",
     "item_name": "Mountain View Canvas",
     "subcategory": "Landscape Painting",
     "description": "A breathtaking landscape painting depicting a serene mountain view.",
     "price": 150.99,
     "rating": 4.8,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "1-2 weeks",
+    "stockstatus": "In Stock",
+    "user_email": "seller1@example.com",
+    "user_name": "John Doe"
   },
   {
-    "image": "https://example.com/forest_based_landscape.jpg",
-    "item_name": "Forest Based Landscape Painting",
-    "subcategory": "Landscape Painting",
-    "description": "A beautiful landscape painting capturing the essence of a forest.",
-    "price": 180.50,
-    "rating": 4.7,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/pencil_sketch_portrait.jpg",
+    "image": "https://i.ibb.co/5LSC4kv/image02.jpg",
     "item_name": "Pencil Sketch Portrait",
     "subcategory": "Portrait Drawing",
     "description": "A detailed pencil sketch portrait capturing the likeness of the subject.",
     "price": 75.99,
     "rating": 4.5,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "1 week",
+    "stockstatus": "In Stock",
+    "user_email": "seller2@example.com",
+    "user_name": "Jane Smith"
   },
   {
-    "image": "https://example.com/ink_outline_portrait.jpg",
-    "item_name": "Ink Outline Portrait",
-    "subcategory": "Portrait Drawing",
-    "description": "An elegant ink outline portrait with intricate details.",
-    "price": 90.00,
-    "rating": 4.6,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/acrylic_portrait_canvas.jpg",
-    "item_name": "Acrylic Portrait Canvas",
-    "subcategory": "Portrait Drawing",
-    "description": "A vibrant acrylic portrait on canvas capturing the essence of the subject.",
-    "price": 120.75,
-    "rating": 4.9,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/floral_watercolor_art.jpg",
+    "image": "https://i.ibb.co/9HQsbmm/image03.jpg",
     "item_name": "Floral Watercolor Art",
     "subcategory": "Watercolour Painting",
     "description": "A delicate watercolor painting featuring vibrant floral motifs.",
     "price": 65.50,
     "rating": 4.4,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "1-2 weeks",
+    "stockstatus": "In Stock",
+    "user_email": "seller3@example.com",
+    "user_name": "Emily Brown"
   },
   {
-    "image": "https://example.com/animal_watercolor_portrait.jpg",
-    "item_name": "Animal Watercolor Portrait",
-    "subcategory": "Watercolour Painting",
-    "description": "A charming watercolor portrait capturing the essence of animals.",
-    "price": 85.99,
-    "rating": 4.7,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/realistic_oil_portrait.jpg",
+    "image": "https://i.ibb.co/L0nsNbJ/image04avif.jpg",
     "item_name": "Realistic Oil Portrait",
     "subcategory": "Oil Painting",
     "description": "A lifelike oil portrait capturing intricate details of the subject.",
     "price": 200.00,
     "rating": 4.8,
     "customization": "Yes",
-    "stockstatus": "Made to Order"
+    "processing_time": "3-4 weeks",
+    "stockstatus": "Made to Order",
+    "user_email": "seller4@example.com",
+    "user_name": "Michael Johnson"
   },
   {
-    "image": "https://example.com/abstract_oil_painting.jpg",
-    "item_name": "Abstract Oil Painting",
-    "subcategory": "Oil Painting",
-    "description": "An abstract oil painting that evokes emotions and imagination.",
-    "price": 180.00,
-    "rating": 4.6,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/figure_charcoal_sketch.jpg",
+    "image": "https://i.ibb.co/7Srq4KZ/image05.jpg",
     "item_name": "Figure Charcoal Sketch",
     "subcategory": "Charcoal Sketching",
     "description": "A dynamic charcoal sketch capturing the essence of human figures.",
     "price": 55.99,
     "rating": 4.3,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "1-2 weeks",
+    "stockstatus": "In Stock",
+    "user_email": "seller5@example.com",
+    "user_name": "Sophia Lee"
   },
   {
-    "image": "https://example.com/architectural_charcoal_drawing.jpg",
-    "item_name": "Architectural Charcoal Drawing",
-    "subcategory": "Charcoal Sketching",
-    "description": "An architectural charcoal drawing showcasing intricate details of buildings.",
-    "price": 70.50,
-    "rating": 4.5,
-    "customization": "Yes",
-    "stockstatus": "In Stock"
-  },
-  {
-    "image": "https://example.com/comic_strip_drawing.jpg",
+    "image": "https://i.ibb.co/vCFDw12/image06.webp",
     "item_name": "Comic Strip Drawing",
     "subcategory": "Cartoon Drawing",
     "description": "A fun and vibrant comic strip drawing with engaging characters and storylines.",
     "price": 45.99,
     "rating": 4.2,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "1 week",
+    "stockstatus": "In Stock",
+    "user_email": "seller6@example.com",
+    "user_name": "William Taylor"
   },
   {
-    "image": "https://example.com/superhero_cartoon_design.jpg",
-    "item_name": "Superhero Cartoon Design",
-    "subcategory": "Cartoon Drawing",
-    "description": "A cool and dynamic superhero cartoon design featuring iconic characters.",
-    "price": 60.00,
-    "rating": 4.4,
+    "image": "https://i.ibb.co/W2H6WdF/image07.jpg",
+    "item_name": "Animal Watercolor Portrait",
+    "subcategory": "Watercolour Painting",
+    "description": "A charming watercolor portrait capturing the essence of animals.",
+    "price": 85.99,
+    "rating": 4.7,
     "customization": "Yes",
-    "stockstatus": "In Stock"
+    "processing_time": "2 weeks",
+    "stockstatus": "In Stock",
+    "user_email": "seller7@example.com",
+    "user_name": "Olivia Martinez"
+  },
+  {
+    "image": "https://i.ibb.co/ysM1PVx/image08.webp",
+    "item_name": "Architectural Charcoal Drawing",
+    "subcategory": "Charcoal Sketching",
+    "description": "An architectural charcoal drawing showcasing intricate details of buildings.",
+    "price": 70.50,
+    "rating": 4.5,
+    "customization": "Yes",
+    "processing_time": "1-2 weeks",
+    "stockstatus": "In Stock",
+    "user_email": "seller8@example.com",
+    "user_name": "David Clark"
   }
 ]
